@@ -5,9 +5,10 @@ This is a university project which consists of a presentation website for SAHAR,
 
 - `index.html` – the main homepage, with a short description of the coffee place and links to the 1st and 2nd page.  
 - `pagina1.html` – a page about the history of coffee, including paragraphs, lists, and images.  
-- `pagina2.html` – a page about the Cotroceni neighborhood, with paragraphs, images, and a table of points of interest.  
+- `pagina2.html` – a page about the Cotroceni neighborhood, with paragraphs, images, and a table of points of interest.
 
-All pages include a **header**, a **navigation menu**, and a **footer**.
+All pages include a **header**, a **navigation menu**, and a **footer**. The project is organized into folders by programming language: [CSS](https://github.com/Siaaaaaaaaaa/proiect/tree/main/CSS), [JS](https://github.com/Siaaaaaaaaaa/proiect/tree/main/JS), [PHP](https://github.com/Siaaaaaaaaaa/proiect/tree/main/PHP), and [images](https://github.com/Siaaaaaaaaaa/proiect/tree/main/poze).
+
 
 ## Technologies Used
 - **HTML** – for page structure and content.  
